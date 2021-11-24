@@ -1,8 +1,7 @@
-{
-   
-   "user": {
-         "intContentId" : 1,
-         "strContentDescription" : "select1",
-         "isActive": false
+"users" : [
+   {
+       "intContentId" : 1,
+       "strContentDescription" : "select1",
+       "isActive": false
     }
-}
+]
