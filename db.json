@@ -1,25 +1,24 @@
-"list" : 
-{
+"list" : {
    [
-    {
-      "intContentId" : 1,
-      "strContentDescription" : "select1",
-      "isActive": false
-    },
-    {
-      "intContentId" : 2,
-      "strContentDescription" : "select2",
-      "isActive": false
-    },
-      {
-      "intContentId" : 3,
-      "strContentDescription" : "select3",
-      "isActive": false
-    },
-    {
-      "intContentId" : 4,
-      "strContentDescription" : "select4",
-      "isActive": false
-    }
-  ]
+       {
+         "intContentId" : 1,
+         "strContentDescription" : "select1",
+         "isActive": false
+       },
+       {
+         "intContentId" : 2,
+         "strContentDescription" : "select2",
+         "isActive": false
+       },
+       {
+         "intContentId" : 3,
+         "strContentDescription" : "select3",
+         "isActive": false
+       },
+       {
+         "intContentId" : 4,
+         "strContentDescription" : "select4",
+         "isActive": false
+       }
+   ]
 }
